@@ -1,0 +1,8 @@
+/* Global reset & base styles */
+*{
+    font-family: 'Inter', 'sans-serif';
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+    letter-spacing: -0.05em;
+}
